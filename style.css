@@ -1,0 +1,17 @@
+body{
+    color:goldenrod ;
+    background-color: antiquewhite;
+}
+.heading{
+    width: 80%;
+    font-size: 23;
+}
+.Name_of_objects,#result_object_name,#result_accuracy{
+    color: goldenrod;
+
+}
+#webcam{
+    border: 2px dashed aliceblue;
+    width: 350px;
+    height: 300px;
+}
